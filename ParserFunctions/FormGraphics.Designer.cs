@@ -117,7 +117,6 @@ namespace ParserFunctions
             this.Name = "FormGraphics";
             this.Text = "FormGraphics";
             this.Load += new System.EventHandler(this.FormGraphics_Load);
-            this.SizeChanged += new System.EventHandler(this.FormGraphics_SizeChanged);
             ((System.ComponentModel.ISupportInitialize)(this.chart1)).EndInit();
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();

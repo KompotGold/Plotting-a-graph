@@ -190,11 +190,7 @@ namespace ParserFunctions
 
 
 
-        private void FormGraphics_SizeChanged(object sender, EventArgs e)
-        {
-           
-        
-        }
+
 
         private void button2_Click(object sender, EventArgs e)
         {
@@ -216,7 +212,6 @@ namespace ParserFunctions
         private void chart1_MouseEnter(object sender, EventArgs e)
         {
             chart1.Focus();
-
         }
 
         private void chart1_MouseLeave(object sender, EventArgs e)
@@ -243,7 +238,6 @@ namespace ParserFunctions
             {
                 isLeftButtonPressed = false;
                 mouseDown = Point.Empty;
-               
 
             }
         }
