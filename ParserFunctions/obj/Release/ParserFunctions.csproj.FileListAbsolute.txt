@@ -1,0 +1,15 @@
+C:\Users\AK-47\Desktop\MV2017\Курсовая работа\ParserMathFunction\ParserFunctions\obj\Release\ParserFunctions.About.resources
+C:\Users\AK-47\Desktop\MV2017\Курсовая работа\ParserMathFunction\ParserFunctions\obj\Release\ParserFunctions.FormMain.resources
+C:\Users\AK-47\Desktop\MV2017\Курсовая работа\ParserMathFunction\ParserFunctions\obj\Release\ParserFunctions.FormGraphics.resources
+C:\Users\AK-47\Desktop\MV2017\Курсовая работа\ParserMathFunction\ParserFunctions\obj\Release\ParserFunctions.Properties.Resources.resources
+C:\Users\AK-47\Desktop\MV2017\Курсовая работа\ParserMathFunction\ParserFunctions\obj\Release\ParserFunctions.Spravka.resources
+C:\Users\AK-47\Desktop\MV2017\Курсовая работа\ParserMathFunction\ParserFunctions\obj\Release\ParserFunctions.csproj.GenerateResource.cache
+C:\Users\AK-47\Desktop\MV2017\Курсовая работа\ParserMathFunction\ParserFunctions\obj\Release\ParserFunctions.csproj.CoreCompileInputs.cache
+C:\Users\AK-47\Desktop\MV2017\Курсовая работа\ParserMathFunction\ParserFunctions\obj\Release\ParserFunctions.Setting.resources
+C:\Users\AK-47\Desktop\MV2017\Курсовая работа\ParserMathFunction\ParserFunctions\bin\Release\ParserFunctions.exe.config
+C:\Users\AK-47\Desktop\MV2017\Курсовая работа\ParserMathFunction\ParserFunctions\bin\Release\ParserFunctions.exe
+C:\Users\AK-47\Desktop\MV2017\Курсовая работа\ParserMathFunction\ParserFunctions\bin\Release\ParserFunctions.pdb
+C:\Users\AK-47\Desktop\MV2017\Курсовая работа\ParserMathFunction\ParserFunctions\bin\Release\MathParser.org-mXparser.Net461.dll
+C:\Users\AK-47\Desktop\MV2017\Курсовая работа\ParserMathFunction\ParserFunctions\obj\Release\ParserFunctions.csproj.CopyComplete
+C:\Users\AK-47\Desktop\MV2017\Курсовая работа\ParserMathFunction\ParserFunctions\obj\Release\ParserFunctions.exe
+C:\Users\AK-47\Desktop\MV2017\Курсовая работа\ParserMathFunction\ParserFunctions\obj\Release\ParserFunctions.pdb
